@@ -3,3 +3,7 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.login-background {
+  background-image: url('/icons/bg.jpg');
+}
